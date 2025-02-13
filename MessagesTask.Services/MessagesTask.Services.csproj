@@ -15,8 +15,4 @@
 		<ProjectReference Include="..\MessagesTask.Data\MessagesTask.Data.csproj" />
 	</ItemGroup>
 
-	<ItemGroup>
-		<Folder Include="ApplicationServices\Contracts\" />
-	</ItemGroup>
-
 </Project>
